@@ -1,4 +1,4 @@
-![](shreyaskhadse/omen-valorant.gif)
+![](omen-valorant.gif)
 
 ### Hi there 👋
 
