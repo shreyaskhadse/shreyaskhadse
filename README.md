@@ -1,5 +1,3 @@
-![](https://tenor.com/bD7OT.gif)
-
 ### Hi there 👋
 
 <!--
