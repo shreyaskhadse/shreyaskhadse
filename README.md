@@ -1,3 +1,5 @@
+![](shreyaskhadse/omen-valorant.gif)
+
 ### Hi there 👋
 
 <!--
