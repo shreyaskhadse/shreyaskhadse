@@ -1,6 +1,4 @@
-<p align="center">
-![](omen-valorant.gif)
-</p>
+<div style="text-align:center"><img src="omen-valorant.gif" /></div>
 
 ### Hi there 👋
 
