@@ -1,10 +1,8 @@
-<div style="text-align:center"><img src="omen-valorant.gif" /></div>
+<div style="text-align:center"><img src="bw.jpg" /></div>
 
 ### Hi there 👋
 
 I am currently working on my GitHub profile, so come back later to see it better ;)
-
-Omen gif why? Obviously I play Valorant, lets play together, Zussman#1252 (Diamond 2)
 <!--
 **shreyaskhadse/shreyaskhadse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
