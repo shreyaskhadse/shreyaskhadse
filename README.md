@@ -1,5 +1,3 @@
-<div style="text-align:center"><img src="bw.jpg" /></div>
-
 ### Hi there 👋
 
 I am currently working on my GitHub profile, so come back later to see it better ;)
